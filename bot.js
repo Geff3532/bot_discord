@@ -3,14 +3,14 @@ const fs = require('fs');
 
 const api = require('./api.js');
 const convert = require('./fileconvert.js');
-const cupge = require('C:/Bot Yes we can/Liste CUPGE.json');
+const cupge = require('C:/Bot Yes we can/Liste CUPGE.json'); // NON FOURNI
 const discord_info = require('./discord_info.json');
 const nb_message = require('./discord_info.json').nb_message;
 const guild_role = require('./discord_info.json').guild_role;
 const divers = require('./divers.js');
 const music = require('./music.js');
 const start_slash = require('./start_slash.js');
-const token = require('C:/Bot Yes we can/auth.json');
+const token = require('C:/Bot Yes we can/auth.json');  // NON FOURNI
 const velib = require('./velib.json');
 
 const Client = new discord.Client;
