@@ -1,32 +1,7 @@
 [
   {
-    "Adresse": "19 rue Léon Lhermitte Paris",
-    "lat": 48.8430365,
-    "lon": 2.2953836
-  },
-  {
-    "Adresse": "76 rue Lecourbe Paris",
-    "lat": 48.8437094,
-    "lon": 2.3032606
-  },
-  {
-    "Adresse": "Campus Grands-Moulins Paris",
-    "lat": 48.8280266,
-    "lon": 2.3828614
-  },
-  {
-    "Adresse": "153 Avenue de Suffren Paris",
-    "lat": 48.8468469,
-    "lon": 2.3061047
-  },
-  {
-    "Adresse": "76 Rue Lecourbe, 75015 Paris, France",
-    "lat": 48.843722,
-    "lon": 2.305464
-  },
-  {
-    "Adresse": "76 Rue Lecourbe, 75015 Paris, France",
-    "lat": 48.843722,
-    "lon": 2.305464
+    "Adresse": "TEST - données effacees",
+    "lat": 48,
+    "lon": 2
   }
 ]
